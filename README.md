@@ -12,6 +12,7 @@ Ex: python3 image_resizer.py /root/Desktop/images
 
 ![Alt text](/image_resizer.png?raw=true "Image_Resizer")
 
+
 Requirements:
 
 python 3
