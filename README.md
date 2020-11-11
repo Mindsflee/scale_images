@@ -1,7 +1,7 @@
 # Image Resizer
 
 
-                                                                                                              
+coder: https://github.com/Valentina6995                                                                                                           
                                                                                                               
                                                                                                               
 The script is designed to change recursively the resolution rate of multiple images (JPEG). 
