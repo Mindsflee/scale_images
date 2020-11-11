@@ -1,4 +1,4 @@
-# Image Rsizer
+# Image Resizer
 
 
                                                                                                               
