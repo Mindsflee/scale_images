@@ -5,7 +5,7 @@ coder: https://github.com/Valentina6995
                                                                                                               
                                                                                                               
 The script is designed to change recursively the resolution rate of multiple images (JPEG). 
-If the jpeg file size is greater than 1 megabytes, the resolution is decreased by 50 percent.
+If the jpeg file size is greater than 1 megabyte, the resolution is decreased by 50 percent.
 
 ```
 Ex: python3 image_resizer.py /root/Desktop/images
