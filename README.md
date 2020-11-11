@@ -10,7 +10,7 @@ The script is designed to change recursively the resolution rate of multiple ima
 Ex: python3 image_resizer.py /root/Desktop/images
 ```
 
-![Alt text](/image_resizer.png?raw=true "Title")
+![Alt text](/image_resizer.png?raw=true "Image_Resizer")
 
 Requirements:
 
